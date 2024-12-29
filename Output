@@ -1,2 +1,1 @@
-The code reads multiple Excel files from a ZIP archive, combines their data into a single DataFrame ,shortlists companies based on their "PAIDUP CAPITAL" and "AUTHORIZED CAPITAL."
-The shortlisted data is saved to a CSV file, allowing easy analysis of top-performing
+
